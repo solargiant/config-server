@@ -1,4 +1,2 @@
-spring:
-  active:
-  profile: dev
+profile: dev
 aroon-name: solargiant
